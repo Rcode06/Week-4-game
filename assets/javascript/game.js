@@ -9,7 +9,7 @@ $(document).ready(function(){
       var blueCrystal = Math.floor( Math.random() * 12 ) + 1;
       var yellowCrystal = Math.floor( Math.random() * 12 ) + 1;
       var greenCrystal = Math.floor( Math.random() * 12 ) + 1;
-      var audio = new Audio("./assets/images/01 Lat Lag Gayee (From_Race_).mp3");
+      var audio = new Audio("./assets/images/02 Better When I'm Dancin'.mp3");
       
       $("#totaladdition").text(totaladdition);
       $("#pcomputerChoice").text(pcomputerChoice);
