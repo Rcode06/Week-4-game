@@ -1,6 +1,6 @@
 
 body {
-	background-image: url("../images/image6.jpg");
+	background-image: url("../images/image5.jpg");
 }
 
 .jumbotron{
@@ -10,7 +10,8 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
-    background-size: cover;   
+    background-size: cover;
+    border-radius: 10%;   
 
 }
 
@@ -24,7 +25,12 @@ body {
 
 .game-crystal{
 	background-color:#99d5cf;
-	height: 140px;
+	height: 160px;
+	
+}
+.btn{
+	margin-left: 37%;
+	
 }
 
 .p{
@@ -32,30 +38,37 @@ body {
 	font-size:10px;
 	font-family: 'Montserrat', sans-serif;
 	text-align: center;
-	/*padding-top: 15px*/
+
+	
 }
 .inst{
 	color:#660066;
 	font-size:15px;
 	font-family: 'Montserrat', sans-serif;
 	text-align: center;
+	padding-bottom: 10px
+
 	
 }
 .computer-choice {
 	margin-top:20px;
 	background-color:#E6E6FA;
-	height: 100px;
+	height: 150px;
+	border-radius: 10%;
+	
 }
 
 #pcomputerChoice{
-	padding:15px;
+	padding:35px;
 	font-size:50px;
 	text-align: center;
+	
 }
 .results {
 	margin:20px;
 	background-color:#433e90;
-	height: 100px;
+	height: 150px;
+	border-radius: 10%;
 }
 
 .youWon {
@@ -70,16 +83,16 @@ body {
 .wins{
 	color:#E6E6FA;
 	font-family: 'Montserrat', sans-serif;
-	padding-left:30px;
 	padding-top:16px;
 	font-size: 20px;
+	text-align: center;
 }
 
 .losses{
 	color:#d896ff;
 	font-family: 'Montserrat', sans-serif;
-	padding-left:30px;
 	font-size: 20px;
+	text-align: center;
 }
 
 img {
@@ -92,19 +105,22 @@ img {
 
 .totalscore{
 	background-color:#99d5cf;
-	height: 30px;
-    margin-top:20px;
+	height: 40px;
+    margin-top:30px;
 }
+
+
 .ptotalscore{
+	padding-top:10px;
 	color:#660066;
 	text-align: center;
-	font-size: 15px
-	padding-top:25px;
-}
+	}
 .score{
 	background-color:#E6E6FA;
 	height: 80px;
     margin-top:20px;
+ 
+    margin-bottom: 30px;
 }
 #totaladdition{
 	color:#660066;
@@ -115,5 +131,38 @@ img {
 }
 
 
+#redCrystal{
+border-radius: 50%;
+margin-top:15px;
+height: 23%;
+width: 13%;
+
+}
+
+#blueCrystal{
+border-radius: 50%;
+margin-top:15px;
+height: 23%;
+width: 13%;
+
+
+}
+
+
+#greenCrystal{
+border-radius: 50%;
+margin-top:15px;
+height: 23%;
+width: 13%;
+
+}
+
+#yellowCrystal{
+border-radius: 50%;
+margin-top:15px;
+height: 23%;
+width: 13%;
+
+}
 
 
