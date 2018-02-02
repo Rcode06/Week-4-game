@@ -6,7 +6,7 @@
 
 
 
-![Screenshot](assets/images/ScreenShotcrystals.jpg)
+![Screenshot](assets/images/ScreenShotcrystal.jpg)
 
 
 ## Technologies implemented
