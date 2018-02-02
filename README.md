@@ -6,10 +6,10 @@
 
 
 
-![Screenshot](assets/images/sshotcrystals.jpg)
+![Screenshot](assets/images/ScreenShotcrystals.jpg)
 
 
-##Technologies implemented
+## Technologies implemented
 
 *HTML, CSS, Bootstrap, Javascript.
 
